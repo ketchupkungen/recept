@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ketchupkungen/recept/static/css/main.f5d104be.css",
+    "main.js": "/ketchupkungen/recept/static/js/main.a13c905e.js",
+    "static/js/787.7b94203b.chunk.js": "/ketchupkungen/recept/static/js/787.7b94203b.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ketchupkungen/recept/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/ketchupkungen/recept/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/ketchupkungen/recept/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/ketchupkungen/recept/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/ketchupkungen/recept/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/ketchupkungen/recept/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ketchupkungen/recept/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ketchupkungen/recept/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/ketchupkungen/recept/index.html",
+    "main.f5d104be.css.map": "/ketchupkungen/recept/static/css/main.f5d104be.css.map",
+    "main.a13c905e.js.map": "/ketchupkungen/recept/static/js/main.a13c905e.js.map",
+    "787.7b94203b.chunk.js.map": "/ketchupkungen/recept/static/js/787.7b94203b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d104be.css",
+    "static/js/main.a13c905e.js"
+  ]
+}
