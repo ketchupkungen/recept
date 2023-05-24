@@ -18,7 +18,7 @@ code {
   position:fixed;
   z-index: 2;
   width: 100%;
-  box-shadow: 1px 1px 1px 1px black;
+  box-shadow: 1px 1px 10px 1px #999999;
 }
 
 .content {
