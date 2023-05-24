@@ -21,7 +21,7 @@ export default function Router() {
         return (
             <>
                 <Header />
-                <Outlet />
+                <Outlet/>
                 <Footer />
             </>
         )

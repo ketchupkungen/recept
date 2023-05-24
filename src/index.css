@@ -10,10 +10,19 @@ code {
     monospace;
 }
 
-
-
 .space {
   margin: 50px;
+}
+
+.header {
+  position:fixed;
+  z-index: 2;
+  width: 100%;
+  box-shadow: 1px 1px 1px 1px black;
+}
+
+.content {
+  padding-top: 60px;
 }
 
 .footer {

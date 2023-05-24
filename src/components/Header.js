@@ -15,7 +15,8 @@ export default function Header() {
     const [showNav, setShowNav] = useState(false);
 
     return (
-        <>
+        <div>
+            <div className='header'>
             <MDBNavbar expand='lg' light bgColor='light'>
                 <MDBContainer fluid>
                     <MDBNavbarBrand href='/'>FoodNstuff</MDBNavbarBrand>
@@ -59,6 +60,8 @@ export default function Header() {
                     </MDBCollapse>
                 </MDBContainer>
             </MDBNavbar>
-        </>
+            </div>
+            <div className='content'></div>
+        </div>
     )
 }
